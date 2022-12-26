@@ -8,6 +8,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Type from "./Type";
 
 function Home2() {
   return (
@@ -15,9 +16,16 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+            {/*<h1 style={{ fontSize: "2.6em" }}>*/}
+            {/*  LET ME <span className="purple"> INTRODUCE </span> MYSELF*/}
+            {/*</h1>*/}
+            <h1 className="heading-name">
+              I'M
+              <strong className="main-name"> AAMIR KALIMI</strong>
             </h1>
+            <div style={{ padding: 50, textAlign: "center" }}>
+              <Type />
+            </div>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
