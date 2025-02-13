@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aamir Kalimi</h1>
-<h3 align="center">Software Engineer II  @ORMAE | Love Problem Solving | Codechef 5⭐️</h3>
+<h3 align="center">Senior Software Engineer | Love Problem Solving | Codechef 5⭐️</h3>
 
 <hr>
 
